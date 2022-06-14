@@ -1,0 +1,113 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loja</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <header>
+        <div class="nav container">
+            <a href="/home/index" class="logo">Cloth Store</a >
+                <ul class="menu">
+                          <li><a href="#">Calça</a>
+                             <ul>
+                                <li><a href="/home/bone">Boné</a></li>
+                                <li><a href="/home/camisas">Camisas</a></li>
+                                <li><a href="/home/moletom">Moletom</a></li>
+                                <li><a href="/home/calca">Calça</a></li>
+                                <li><a href="/home/tenis">Ténis</a></li>                                 
+                               </ul>
+                        </li>
+                  
+            </ul>
+            <i class='bx bxs-shopping-bag' id="cart-icon"></i>
+
+            <div class="cart">
+                <h2 class="cart-title">teu item</h2>
+                <div class="cart-content">
+                    
+                </div>
+                <!--total-->
+                <div class="total">
+                    <div class="total-title">Total</div>
+                    <div class="total-price">$50</div>
+                </div>
+                <!--botao comprar-->
+                <button type="button" class="btn-buy"> Comprar </button>
+                <!-- fechar -->
+                <i class='bx bx-x' id="close-cart"></i>
+            </div>
+        </div>
+    </header>
+    <section class="shop container">
+        <h2 class="section-title">Produtos</h2>
+        <div class="shop-content">
+            <!--produto 1-->
+            <div class="product-box">
+                <img src="/imgs/calca1.png" alt="" class="product-img">
+                <h2 class="product-title">dc </h2>
+                <span class="price">30$</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!--produto 2-->
+            <div class="product-box">
+                <img src="/imgs/calca2.png" alt="" class="product-img">
+                <h2 class="product-title">future</h2>
+                <span class="price">70$</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!--produto 3-->
+            <div class="product-box">
+                <img src="/imgs/calca3.png" alt="" class="product-img">
+                <h2 class="product-title">nike sb</h2>
+                <span class="price">110$</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!--produto 4-->
+            <div class="product-box">
+                <img src="/imgs/calca4.png" alt="" class="product-img">
+                <h2 class="product-title">DISTURB</h2>
+                <span class="price">80$</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!--produto 5-->
+            <div class="product-box">
+                <img src="/imgs/calca5.png" alt="" class="product-img">
+                <h2 class="product-title">independent</h2>
+                <span class="price">444$</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!--produto 6-->
+            <div class="product-box">
+                <img src="/imgs/calca6.png" alt="" class="product-img">
+                <h2 class="product-title">class</h2>
+                <span class="price">330$</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!--produto 7-->
+            <div class="product-box">
+                <img src="/imgs/calca7.png" alt="" class="product-img">
+                <h2 class="product-title">ous</h2>
+                <span class="price">111$</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+            <!--produto 8-->
+            <div class="product-box">
+                <img src="/imgs/calca8.png" alt="" class="product-img">
+                <h2 class="product-title">nylon</h2>
+                <span class="price">301$</span>
+                <i class='bx bx-shopping-bag add-cart'></i>
+            </div>
+        </div>
+    </section>
+    <script src="/js/main.js"></script>
+   
+</body>
+</html>

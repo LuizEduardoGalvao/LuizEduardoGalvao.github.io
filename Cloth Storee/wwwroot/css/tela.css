@@ -1,0 +1,113 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    width: 100vw;
+    height: 100vh;
+    color: rgba(84, 88, 85, 0);
+    font-family: 'Oswald';
+}
+
+.load {
+    animation: slide 2s;
+}
+
+.principal a {
+    font-size: 3.0rem;
+    text-decoration: none;
+    font-weight: 400
+}
+
+.bx {
+    color: rgb(0, 255, 255);
+}
+
+.slider {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    animation: slide 40s infinite;
+}
+
+header {
+    width: 100%;
+    height: 7vh;
+    background-color: rgba(32, 32, 32, 0.082);
+}
+
+.content {
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.principal {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+    .principal h1 {
+        font-size: 70px;
+        margin-bottom: 20px;
+    }
+
+    .principal p {
+        font-size: 20px;
+    }
+
+h1 {
+    color: slateblue;
+    text-shadow: 0 0 3px #FF0000, 0 0 25px #0000FF;
+}
+
+@keyframes slide {
+    0% {
+        background-image: url(https://siterg.uol.com.br/wp-content/uploads/2020/10/beatz-1-1500.jpg);
+    }
+
+    20% {
+        background-image: url(https://siterg.uol.com.br/wp-content/uploads/2020/10/beatz-1-1500.jpg);
+    }
+
+    20.01% {
+        background-image: url(https://streetwearbr.com/wp-content/uploads/2018/09/huf-spitfire-collab-2018-04.jpg);
+    }
+
+    40% {
+        background-image: url(https://streetwearbr.com/wp-content/uploads/2018/09/huf-spitfire-collab-2018-04.jpg);
+    }
+
+    40.01% {
+        background-image: url(https://cdn.weartesters.com/wp-content/uploads/2018/01/DC-Shoe-Cos-94-Collection-Retros-Skating-Legacy7.jpg);
+    }
+
+    60% {
+        background-image: url(https://cdn.weartesters.com/wp-content/uploads/2018/01/DC-Shoe-Cos-94-Collection-Retros-Skating-Legacy7.jpg);
+    }
+
+    60.01% {
+        background-image: url(https://blog.worshipskateshop.com.br/wp-content/uploads/2020/06/t%C3%AAnis-ous.jpg);
+    }
+
+    80% {
+        background-image: url(https://blog.worshipskateshop.com.br/wp-content/uploads/2020/06/t%C3%AAnis-ous.jpg);
+    }
+
+    80.01% {
+        background-image: url(https://siterg.uol.com.br/wp-content/uploads/2020/10/beatz-1-1500.jpg);
+    }
+
+    100% {
+        background-image: url(https://siterg.uol.com.br/wp-content/uploads/2020/10/beatz-1-1500.jpg);
+    }
+}

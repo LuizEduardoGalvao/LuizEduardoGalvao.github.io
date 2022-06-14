@@ -1,0 +1,26 @@
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\bin\Debug\net6.0\appsettings.json
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\bin\Debug\net6.0\Cloth Storee.staticwebassets.runtime.json
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\bin\Debug\net6.0\Cloth Storee.exe
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\bin\Debug\net6.0\Cloth Storee.deps.json
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\bin\Debug\net6.0\Cloth Storee.runtimeconfig.json
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\bin\Debug\net6.0\Cloth Storee.dll
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\bin\Debug\net6.0\ref\Cloth Storee.dll
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\bin\Debug\net6.0\Cloth Storee.pdb
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\Cloth Storee.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\Cloth Storee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\Cloth Storee.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\Cloth Storee.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\Cloth Storee.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\Cloth Storee.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\Cloth Storee.RazorAssemblyInfo.cache
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\Cloth Storee.RazorAssemblyInfo.cs
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\scopedcss\bundle\Cloth Storee.styles.css
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\scopedcss\projectbundle\Cloth Storee.bundle.scp.css
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\Cloth Storee.dll
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\ref\Cloth Storee.dll
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\Cloth Storee.pdb
+C:\Users\Aluno\source\repos\Cloth Storee\Cloth Storee\obj\Debug\net6.0\Cloth Storee.genruntimeconfig.cache
